@@ -1,0 +1,3 @@
+<FilesMatch "\.cfg$">
+  Require all denied
+</FilesMatch>

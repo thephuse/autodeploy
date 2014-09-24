@@ -1,0 +1,3 @@
+<FilesMatch "\.sh$">
+  Require all denied
+</FilesMatch>
